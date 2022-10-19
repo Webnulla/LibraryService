@@ -1,0 +1,71 @@
+﻿[
+  {
+    "id": "62c69902893de656b4fd0bfc",
+    "title": "НУ-ну",
+    "category": "Наука и техника",
+    "authors": [
+      {
+        "name": "Жюль Верный",
+        "lang": "fr"
+      }
+    ],
+    "publicationDate": "1815",
+    "lang": "fr",
+    "pages": 582,
+    "ageLimit": 6
+  },
+  {
+    "id": "62c69a5f315cc656b4fd0bfc",
+    "title": "SCRUM",
+    "category": "Красота, здоровье, спорт",
+    "authors": [
+      {
+        "name": "Максим Негорький",
+        "lang": "ru"
+      },
+      {
+        "name": "Михаил Толстой",
+        "lang": "ru"
+      }
+    ],
+    "publicationDate": "1978",
+    "lang": "en",
+    "pages": 388,
+    "ageLimit": 2
+  },
+  {
+    "id": "62c69a764ec09927b4fd0bfc",
+    "title": "Такой хоккей нам не нужен",
+    "category": "Книги для детей",
+    "authors": [
+      {
+        "name": "Михаил Толстой",
+        "lang": "ru"
+      }
+    ],
+    "publicationDate": "2009",
+    "lang": "ru",
+    "pages": 741,
+    "ageLimit": 5
+  },
+  {
+    "id": "62c69a8755884566b4fd0b3f",
+    "title": "О вреде бега",
+    "category": "Красота, здоровье, спорт",
+    "authors": [
+      {
+        "name": "Михаил Толстой",
+        "lang": "fr"
+      },
+      {
+        "name": "Макдональд Кнутов",
+        "lang": "tn"
+      }
+    ],
+    "publicationDate": "1915",
+    "lang": "fr",
+    "pages": 668,
+    "ageLimit": 11
+  }
+]
+
